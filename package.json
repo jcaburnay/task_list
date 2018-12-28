@@ -1,0 +1,24 @@
+{
+  "name": "task_list",
+  "version": "1.0.0",
+  "description": "Task List",
+  "main": "index.js",
+  "homepage": "https://nongbi.github.io/task_list",
+  "dependencies": {
+    "pkg": "^4.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nongbi/task_list.git"
+  },
+  "author": "Jonathan Caburnay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nongbi/task_list/issues"
+  }
+}
